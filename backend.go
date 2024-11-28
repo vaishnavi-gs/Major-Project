@@ -19,7 +19,7 @@ import (
 )
 
 const (
-	bucketName = "hpecty"
+	bucketName = " "
 	region     = "ap-south-1"
 )
 
